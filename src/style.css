@@ -1,0 +1,46 @@
+:root {
+    --r-link-color: #ff0d68;
+    --r-link-color-dark: #e50b5d;
+    --r-link-color-hover: #ff2577;
+    --r-selection-background-color: #ff0d68;
+}
+
+/* Elements */
+.sanic { color: #ff0d68 !important; }
+.mayim { color: #5dadec !important; }
+.logo { width: 200px; }
+.book { height: 30vh;}
+.profile { border-radius: 100%; }
+.profile.small { width: 128px; }
+.faded { opacity: 0.5; }
+
+/* Overrides */
+blockquote {
+    text-align: left;
+}
+.reveal .info-slide ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    font-size: 128px;
+    justify-content: space-evenly;
+}
+.reveal h2.i-heart-python { font-size: 7em; }
+.reveal pre.no-max code { max-height: initial; }
+.reveal pre.wrap code { white-space: pre-wrap; }
+.reveal pre.small code {
+    font-size: 0.85rem;
+    line-height: 1.2em;
+}
+
+/* Fragment styles */
+.fragment.from-nothing {
+    opacity: 0;
+    transform: scale(0.1);
+
+}
+.fragment.from-nothing.visible {
+    opacity: 1;
+    transform: scale(1);
+}
