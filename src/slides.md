@@ -136,12 +136,12 @@ notes:
 
 > The destination is often not the point.
 > 
-> Rather, the path taken is what builds the memories and fulfills the soul.
+> Rather, the path taken is what builds memories and fulfills the soul.
 
 notes:
 
 > The destination is often not the point.
-> Rather, the path taken is what builds the memories and fulfills the soul.
+> Rather, the path taken is what builds memories and fulfills the soul.
 
 - There's a lot to unpack in this statement
 - Before we go too far into this concept let's bring this back to the world of software development
@@ -549,7 +549,7 @@ notes:
 - First up...
 
 ---
-<!-- .slide: data-auto-animate data-timing"150" -->
+<!-- .slide: data-auto-animate data-timing="130" -->
 
 ```text [4:]
 Beautiful is better than ugly.
@@ -581,7 +581,7 @@ notes:
   - felt I needed to apologize for my code
 
 ---
-<!-- .slide: data-timing="135" -->
+<!-- .slide: data-timing="125" -->
 
 ```text [6:]
 Simple is better than complex.
@@ -652,7 +652,7 @@ notes:
     - For the past year I've always copy/pasted this same code snippet, maybe now I should figure out what it does
 
 ---
-<!-- .slide: data-timing="45" -->
+<!-- .slide: data-timing="35" -->
 
 ```text [18:]
 Now is better than never.
@@ -673,7 +673,7 @@ notes:
 - To understand, I think you need to know a little more about my OSS journey
 
 ---
-<!-- .slide: data-timing="90" -->
+<!-- .slide: data-timing="80" -->
 
 ![Sanic](/images/sanic-framework-logo-white-824x200.png)
 
@@ -699,7 +699,7 @@ notes:
 - ...
 
 ---
-<!-- .slide: data-timing="150" -->
+<!-- .slide: data-timing="140" -->
 
 ```text [19:]
 Although never is often better than *right* now.
@@ -1024,7 +1024,7 @@ notes:
 
 [@admhpkns@fosstodon.org](https://fosstodon.org/@admhpkns)
 
-[amhopkins.com](https://amhopkins.com)
+[amhopkins.com](https://amhopkins.com) | [asherdesign.myportfolio.com](https://asherdesign.myportfolio.com/)
 
 notes:
 - Also, tomorrow I'll be doing a sprint on Sanic
